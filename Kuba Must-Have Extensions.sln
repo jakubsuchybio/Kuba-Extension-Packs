@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuba Must-Have Extensions", "Kuba Must-Have Extensions\Kuba Must-Have Extensions.csproj", "{B2EF3B22-7238-4457-A0AA-50F30163DFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2EF3B22-7238-4457-A0AA-50F30163DFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EF3B22-7238-4457-A0AA-50F30163DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EF3B22-7238-4457-A0AA-50F30163DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EF3B22-7238-4457-A0AA-50F30163DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D592FBF2-B15D-476D-9680-BF5CE1509C36}
+	EndGlobalSection
+EndGlobal
