@@ -1,4 +1,4 @@
-Thise are extension packs of Visual Studio Extensions, that I personally use and with this I'd like to share them with you.
+These are extension packs of Visual Studio Extensions, that I personally use and with this I'd like to share them with you.
 I will write summary for each and how it helps me.
 
 # Must-have Extension Pack:
