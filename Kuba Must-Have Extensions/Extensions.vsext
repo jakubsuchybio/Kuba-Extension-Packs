@@ -1,38 +1,38 @@
 {
-  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "description": "There are a must have extensions. I can't work without them.",
   "version": "1.0.0.0",
   "extensions": [
     {
-      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8",
-      "name": "File Icons"
+      "name": "File Icons",
+      "vsixId": "3a7b4930-a5fb-46ec-a9b8-9610c8f953b8"
     },
     {
-      "vsixId": "MatchMargin.d85a25b5-f7b3-46a9-997e-a2d669dc2c93",
-      "name": "Match Margin"
+      "name": "Match Margin",
+      "vsixId": "MatchMargin.d85a25b5-f7b3-46a9-997e-a2d669dc2c93"
     },
     {
-      "vsixId": "d279c680-2465-4297-af80-8dd01be88430",
-      "name": "Microsoft Child Process Debugging Power Tool"
+      "name": "Microsoft Child Process Debugging Power Tool",
+      "vsixId": "d279c680-2465-4297-af80-8dd01be88430"
     },
     {
-      "vsixId": "SyntacticLineCompression.4452fb8f-b348-49eb-9499-76669d3f9c75",
-      "name": "Shrink Empty Lines"
+      "name": "Shrink Empty Lines",
+      "vsixId": "SyntacticLineCompression.4452fb8f-b348-49eb-9499-76669d3f9c75"
     },
     {
-      "vsixId": "399c17d5-6a98-44e4-938e-6d0f1f804076",
-      "name": "SwitchStartupProject for VS 2019 (Preview)"
+      "name": "SwitchStartupProject for VS 2019 (Preview)",
+      "vsixId": "399c17d5-6a98-44e4-938e-6d0f1f804076"
     },
     {
-      "vsixId": "40b5ca05-6793-42f7-a50a-cca5bf4ff495",
-      "name": "SwitchStartupProject for VS 2017"
+      "name": "SwitchStartupProject for VS 2017",
+      "vsixId": "40b5ca05-6793-42f7-a50a-cca5bf4ff495"
     },
     {
-      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d",
-      "name": "Trailing Whitespace Visualizer"
+      "name": "Trailing Whitespace Visualizer",
+      "vsixId": "4c1a78e6-e7b8-4aa9-8812-4836e051ff6d"
     },
     {
-      "vsixId": "CD56B219-38CB-482A-9B2D-7582DF4AAF1E",
-      "name": "VSColorOutput"
+      "name": "VSColorOutput",
+      "vsixId": "CD56B219-38CB-482A-9B2D-7582DF4AAF1E"
     }
   ]
 }
