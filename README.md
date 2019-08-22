@@ -1,6 +1,8 @@
 This is an extension pack of Visual Studio Extensions, that I personally use and with this I'd like to share them with you.
 I will write summary for each and how it helps me.
 
+#Must-have Extension Pack:
+
 [**File Icons:**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 - Shows multiple file icons inside Solution Explorer for each file extension types.
 - This is really convenient when working in solution that has resources,
