@@ -1,0 +1,38 @@
+{
+  "description": "These are my recommended extensions. I also can't work without them.",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "name": "AsyncFixer",
+      "vsixId": "AsyncFixer.Vsix..edab5fce-e3aa-4fea-9d60-a07bc11d493b"
+    },
+    {
+      "name": "Disable Solution Explorer's Dynamic Nodes",
+      "vsixId": "4ce74140-3f68-4438-92a4-a54afea98179"
+    },
+    {
+      "name": "Fix Mixed Tabs",
+      "vsixId": "FixMixedTabs.9f1d3050-b986-4b10-ae36-97c6efc5e968"
+    },
+    {
+      "name": "GitHub Extension for Visual Studio",
+      "vsixId": "c3d3dc68-c977-411f-b3e8-03b0dccf7dfc"
+    },
+    {
+      "name": "Markdown Editor",
+      "vsixId": "9ca64947-e9ca-4543-bfb8-6cce9be19fd6"
+    },
+    {
+      "name": "Mouse Navigation",
+      "vsixId": "Tvl.VisualStudio.MouseNavigation.74370A5B-33D9-4F9E-A910-D83D487A825D"
+    },
+    {
+      "name": "Reset Tool Windows",
+      "vsixId": "MadsKristensen.ResetToolWindow"
+    },
+    {
+      "name": "Solution Error Visualizer",
+      "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c"
+    }
+  ]
+}
