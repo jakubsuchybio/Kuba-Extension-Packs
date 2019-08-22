@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Kuba_Recommended_Extensions.ef408b0c-b272-4638-a561-774f4b6b3503" Version="1.1" Language="en-US" Publisher="jakubsuchybio" />
+        <Identity Id="Kuba_Recommended_Extensions.ef408b0c-b272-4638-a561-774f4b6b3503" Version="1.2" Language="en-US" Publisher="jakubsuchybio" />
         <DisplayName>Kuba Recommended Extensions</DisplayName>
         <Description xml:space="preserve">There are my recommended extensions. I also can't work without them.</Description>
         <Icon>icon.png</Icon>
