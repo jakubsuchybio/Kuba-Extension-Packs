@@ -1,0 +1,18 @@
+{
+  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "name": "Entity Framework 6 Power Tools Community Edition",
+      "vsixId": "F0A7D01D-4834-44C3-99B2-5907A0701906"
+    },
+    {
+      "name": "TSVN",
+      "vsixId": "07fd7462-cd4b-433b-9ab5-8ad3ad87bc65"
+    },
+    {
+      "name": "Wix Toolset Visual Studio 2019 Extension",
+      "vsixId": "WixToolset.VisualStudioExtension.Dev16"
+    }
+  ]
+}

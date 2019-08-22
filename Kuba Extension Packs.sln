@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuba Must-Have Extensions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuba Recommended Extensions", "Kuba Recommended Extensions\Kuba Recommended Extensions.csproj", "{3BE5E013-45FD-4B43-AE7C-6E1C06A8FD9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuba BTL Needed Extensions", "Kuba BTL Needed Extensions\Kuba BTL Needed Extensions.csproj", "{DACC55C2-D167-44B9-B7EA-0B047DDDBCFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BE5E013-45FD-4B43-AE7C-6E1C06A8FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BE5E013-45FD-4B43-AE7C-6E1C06A8FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BE5E013-45FD-4B43-AE7C-6E1C06A8FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DACC55C2-D167-44B9-B7EA-0B047DDDBCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACC55C2-D167-44B9-B7EA-0B047DDDBCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACC55C2-D167-44B9-B7EA-0B047DDDBCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACC55C2-D167-44B9-B7EA-0B047DDDBCFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
